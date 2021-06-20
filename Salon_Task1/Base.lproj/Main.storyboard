@@ -104,11 +104,11 @@
                     </view>
                     <connections>
                         <outlet property="answerLabel" destination="G2X-DF-fPw" id="w7o-YJ-LC0"/>
-                        <outlet property="fifthText" destination="o2K-1L-K0i" id="Pfy-9H-qmv"/>
-                        <outlet property="firstText" destination="dRE-1o-YRl" id="Gjj-df-1DA"/>
-                        <outlet property="fourthText" destination="QxO-2u-HfP" id="lEL-zV-YF7"/>
-                        <outlet property="secondText" destination="0UE-YW-b0L" id="Z4U-hK-7tv"/>
-                        <outlet property="thirdText" destination="S0d-f5-7aP" id="XZd-gY-zwi"/>
+                        <outlet property="fifthTextField" destination="o2K-1L-K0i" id="ybl-To-0jr"/>
+                        <outlet property="firstTextField" destination="dRE-1o-YRl" id="099-hy-ZsV"/>
+                        <outlet property="fourthTextField" destination="QxO-2u-HfP" id="Q4L-V1-ImF"/>
+                        <outlet property="secondTextField" destination="0UE-YW-b0L" id="5Kp-dv-iRW"/>
+                        <outlet property="thirdTextField" destination="S0d-f5-7aP" id="sQs-F8-hh8"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
