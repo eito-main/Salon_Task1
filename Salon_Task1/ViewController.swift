@@ -43,3 +43,5 @@ class ViewController: UIViewController {
         numbers.reduce(0, +)
     }
 }
+
+print("o")
